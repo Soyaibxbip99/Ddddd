@@ -9,8 +9,8 @@ from threading import Thread
 from pymongo import MongoClient
 
 # Configuration
-TOKEN = '7792781879:AAEOjU4sZ2qMqvq37xXK7rj5YP5a-_Dm_Is'
-ADMIN_USER_ID = 5616232839
+TOKEN = '7758911672:AAEVq3Na1PjVOjfQDC2ch_twG_vfLis3oM0'
+ADMIN_USER_ID = 5664440207
 MONGO_URI = 'mongodb+srv://Magic:Spike@cluster0.fa68l.mongodb.net/TEST?retryWrites=true&w=majority&appName=Cluster0'  # Update with your MongoDB URI
 
 logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
